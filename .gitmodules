@@ -1,3 +1,6 @@
 [submodule "movies-explorer-frontend"]
 	path = movies-explorer-frontend
 	url = https://github.com/kobewinona/movies-explorer-frontend.git
+[submodule "movies-explorer-api"]
+	path = movies-explorer-api
+	url = https://github.com/kobewinona/movies-explorer-api.git

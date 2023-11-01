@@ -1,6 +1,7 @@
 [![cover](/images/movies-explorer-readme.jpg)](https://movies.dk.nomoredomainsrocks.ru)
 
 # Movies-Explorer
+![Project Status](https://img.shields.io/badge/status-complete-lightgreen?style=flat-square)
 
 [![Movies-Explorer Webpage](https://img.shields.io/badge/Website-Link-f9f9f9?style=for-the-badge&logoColor=000)](https://movies.dk.nomoredomainsrocks.ru) [![Dima Klimkin Profile Page](https://img.shields.io/badge/Dima_Klimkin-f9f9f9?style=for-the-badge&logoColor=000&logo=github)](https://github.com/kobewinona)
 
